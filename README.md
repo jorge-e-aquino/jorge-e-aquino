@@ -1,6 +1,3 @@
-<!--
-**jorge-e-aquino/jorge-e-aquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Jorge Aquino!](https://aquino.design) 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jorge-e-aquino)
