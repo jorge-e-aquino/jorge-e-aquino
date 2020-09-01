@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Jorge Aquino, a Frontend Developer 👾 from Atlanta! Currently, I'm a sophomore at [Georgia Tech](https://gatech.edu).
+Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a sophomore at [Georgia Tech](https://gatech.edu).
 
   <img align="right" alt="Jorge's Logo" src="https://pro2-bar-s3-cdn-cf2.myportfolio.com/e9dc4e29-2308-4623-83aa-ed8c86651717/d2197209-2d89-45a6-b313-440b052fa4e5_rwc_21x21x2048x505x4096.png?h=d8a56bcf2abdc13cca2120bf2a4d8db2" />
 
@@ -16,7 +16,7 @@ Hi, I'm Jorge Aquino, a Frontend Developer 👾 from Atlanta! Currently, I'm a s
 - 💻 I’m currently working on launching and designing my website;
 - 🤔 I’m looking for help with making my site responsive to variable screen resolutions;
 - ☕ I’m currently learning Java in CS1331; 
-- 👯 I’m looking to collaborate on personal projects;
+- 🤼‍♂️ I’m looking to collaborate on personal projects;
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter: jaquino7@gatech.edu;
 - 📝 [My Resume](https://www.linkedin.com/in/jorge-e-aquino/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABzNW3QBbCM_sJbmv7WlMWu1g6OprDJOqlY,1598938804710)/)
