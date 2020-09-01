@@ -18,7 +18,7 @@ Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a s
 - ☕ I’m currently learning Java in CS1331; 
 - 🤼‍♂️ I’m looking to collaborate on personal projects;
 - 😄 Pronouns: He/Him/His
-- 📫 Send me a love letter: jaquino7@gatech.edu;
+- 📫 Send me a love letter (and/or general inquiries): jaquino7@gatech.edu;
 - 📝 [My Resume](https://www.linkedin.com/in/jorge-e-aquino/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABzNW3QBbCM_sJbmv7WlMWu1g6OprDJOqlY,1598938804710)/)
 
 **Languages and Tools:**  
