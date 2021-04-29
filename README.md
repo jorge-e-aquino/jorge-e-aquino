@@ -13,9 +13,9 @@ Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a s
 
 **About Me:**
 
-- 💻 I’m currently working on launching and designing my website;
+- 💻 I’m currently working on relaunching and designing my website using Angular;
 - 🤔 I’m looking for help with making my site responsive to variable screen resolutions;
-- ☕ I’m currently learning Java in CS1331; 
+- ☕ I’m currently training for a software engineering position at ChildPlus Software--I'll be using Angular 11; 
 - 🤼‍♂️ I’m looking to collaborate on personal projects;
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter (and/or general inquiries): jaquino7@gatech.edu;
