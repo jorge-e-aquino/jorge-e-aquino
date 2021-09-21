@@ -14,11 +14,11 @@ Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a s
 **About Me:**
 
 - 💻 I’m currently working on relaunching and designing my website using SvelteKit;
-- 🤔 I’m looking for help with making my site responsive to variable screen resolutions;
+- 🤔 I’m looking for help with making my site, specifically the backend and database (I'll be using Supabase);
 - ☕ I’m currently an intern for a software engineering position at ChildPlus Software--I'll be using Angular to design and implement components; 
 - 🤼‍♂️ I’m looking to collaborate on personal projects;
 - 😄 Pronouns: He/Him/His
-- 📫 Send me a love letter (and/or general inquiries): jaquino7@gatech.edu;
+- 📫 Send me a love letter (or general inquiries): jaquino7@gatech.edu;
 - 📝 [My Resume](https://aquino.design/resume.html)
 
 **Languages and Tools:**  
