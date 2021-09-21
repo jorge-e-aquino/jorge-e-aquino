@@ -5,7 +5,6 @@
 
 
 <br />
-<br />
 
 Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a sophomore at [Georgia Tech](https://gatech.edu) studying Computational Media with concentrations in "People" and "Interaction Design," fields that compliment a career in User Experience design (UI/UX) and Front End Development. I have experience in web dev, UX research, and visual design.
 
