@@ -6,13 +6,13 @@
 
 <br />
 
-Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a sophomore at [Georgia Tech](https://gatech.edu) studying Computational Media with concentrations in "People" and "Interaction Design," fields that compliment a career in User Experience design (UI/UX) and Front End Development. I have experience in web dev, UX research, and visual design.
+Hi, I'm Jorge Aquino, a Frontend Developer 🎨 from Atlanta! Currently, I'm a third-year at [Georgia Tech](https://gatech.edu) studying Computational Media with concentrations in "People" and "Interaction Design," fields that compliment a career in User Experience design (UI/UX) and Front End Development. I have experience in web dev, UX research, and visual design.
 
 **About Me:**
 
-- 💻 I’m currently working on relaunching and designing my website using SvelteKit;
-- 🤔 I’m looking for help with making my site, specifically the backend and database (I'll be using Supabase);
-- ☕ I’m currently an intern for a software engineering position at ChildPlus Software--I'll be using Angular to design and implement components; 
+- 💻 I need help! I’m currently working on launching a beautiful/interactive site for Computational Media Ambassadors;
+- 🤔 I’m currently procrastinating relaunching my personal portfolio;
+- ☕ I’m currently looking for a UI/UX Design internship; 
 - 🤼‍♂️ I’m looking to collaborate on personal projects;
 - 😄 Pronouns: He/Him/His
 - 📫 Send me a love letter (or general inquiries): jaquino7@gatech.edu;
